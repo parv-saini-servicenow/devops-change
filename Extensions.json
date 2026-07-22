@@ -1,0 +1,28 @@
+{
+  "Extensions": [
+    {
+      "extensionName": "Advanced Security Build Tasks",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.advancedsecurity-tasks' target='_blank'><b>Advanced Security Build Tasks</b></a>",
+      "publisherId": "ms",
+      "extensionId": "advancedsecurity-tasks",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.advancedsecurity-tasks' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "ServiceNow DevOps",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ServiceNow.vss-services-servicenow-devops' target='_blank'><b>ServiceNow DevOps</b></a>",
+      "publisherId": "ServiceNow",
+      "extensionId": "vss-services-servicenow-devops",
+      "publisherName": "ServiceNow",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ServiceNow.vss-services-servicenow-devops' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "SonarCloud",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'><b>SonarCloud</b></a>",
+      "publisherId": "SonarSource",
+      "extensionId": "sonarcloud",
+      "publisherName": "SonarSource",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'>License Terms</a>"
+    }
+  ]
+}

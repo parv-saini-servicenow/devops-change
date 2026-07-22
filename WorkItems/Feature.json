@@ -1,0 +1,878 @@
+{
+  "count": 22,
+  "value": [
+    {
+      "id": 652,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 1",
+        "System.WorkItemType": "Feature",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:51.48Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.48Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As a marketeer i want our website to be performant and available around the world",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As a marketeer i want our website to be performant and available around the world",
+        "System.AssignedTo": "craig109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/652"
+    },
+    {
+      "id": 653,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 1",
+        "System.WorkItemType": "Feature",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:51.603Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.603Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As a business owner, I would like to know how much our historical spend is to help project future spend for budgeting + financials.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As a business owner, I would like to know how much our historical spend is to help project future spend for budgeting + financials.",
+        "System.AssignedTo": "lsteel109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/653"
+    },
+    {
+      "id": 654,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 1",
+        "System.WorkItemType": "Feature",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:51.77Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.77Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As an Ops guy, I want to ensure that the legacy MRP system configuration is consistent.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As an Ops guy, I want to ensure that the legacy MRP system configuration is consistent.",
+        "System.AssignedTo": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/654"
+    },
+    {
+      "id": 655,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 1",
+        "System.WorkItemType": "Feature",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:51.94Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.94Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Ops needs the ability to quickly roll back to a known good state in the event of a critical problem in production.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Ops needs the ability to quickly roll back to a known good state in the event of a critical problem in production.",
+        "System.AssignedTo": "craig109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/655"
+    },
+    {
+      "id": 656,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.063Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.063Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Credit Card Purchase",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Credit Card Purchase",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/642",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/656"
+    },
+    {
+      "id": 657,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.303Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.303Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Product catalog changes",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Product catalog changes",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/643",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/657"
+    },
+    {
+      "id": 658,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.427Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.427Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Product Recommendations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Product Recommendations",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/647",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/658"
+    },
+    {
+      "id": 659,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.553Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.553Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Ask for customer feedback",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Ask for customer feedback",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/644",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/659"
+    },
+    {
+      "id": 660,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.76Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.76Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Customer issues",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Customer issues",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/644",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/660"
+    },
+    {
+      "id": 661,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:52.957Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:52.957Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Ad-hoc promotions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Ad-hoc promotions",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/647",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/661"
+    },
+    {
+      "id": 662,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.35Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.35Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Gift Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Gift Options",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/650",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/662"
+    },
+    {
+      "id": 663,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 1",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.467Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.467Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As marketeer, I want us to reuse the web assets for apps on Android and iOS with corporate branding, and I will want to be able to update the device apps with every marketing promotion. That will mean using Cordova.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As marketeer, I want us to reuse the web assets for apps on Android and iOS with corporate branding, and I will want to be able to update the device apps with every marketing promotion. That will mean using Cordova.",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/651",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/663"
+    },
+    {
+      "id": 664,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.58Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.58Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Customer notification",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Customer notification",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/646",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/664"
+    },
+    {
+      "id": 665,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.68Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.68Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Delivery confirmation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Delivery confirmation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/649",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/665"
+    },
+    {
+      "id": 666,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.803Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.803Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Order confirmation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Order confirmation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/650",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/666"
+    },
+    {
+      "id": 667,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:53.93Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:53.93Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Order cancellation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Order cancellation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/650",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/667"
+    },
+    {
+      "id": 668,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:54.063Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:54.063Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Delivery Options",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Delivery Options",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/649",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/668"
+    },
+    {
+      "id": 669,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:54.387Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:54.387Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Shipping charges calculation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Shipping charges calculation",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/650",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/669"
+    },
+    {
+      "id": 670,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:54.503Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:54.503Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Supplier Feedback",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Supplier Feedback",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/648",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/670"
+    },
+    {
+      "id": 671,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:54.623Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:54.623Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Ratings for purchased items",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Ratings for purchased items",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/635",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/648",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/671"
+    },
+    {
+      "id": 672,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:54.88Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:54.88Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Rewards Redemption",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Rewards Redemption",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/645",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/672"
+    },
+    {
+      "id": 673,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New feature",
+        "System.CreatedDate": "2022-10-09T00:43:55.007Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:55.007Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Points Accural on Purchases",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Points Accural on Purchases",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/645",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/673"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}

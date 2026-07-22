@@ -1,0 +1,675 @@
+{
+  "count": 16,
+  "value": [
+    {
+      "id": 636,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:48.497Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:48.497Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As developer, I want to use Azure Machine Learning to provide a recommendations engine behind the website.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As developer, I want to use Azure Machine Learning to provide a recommendations engine behind the website.",
+        "System.AssignedTo": "craig109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/636"
+    },
+    {
+      "id": 637,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:48.653Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:48.653Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As ops guy, I'd like to keep the business owners happy ensuring there is no wasted spend in cloud resources.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As ops guy, I'd like to keep the business owners happy ensuring there is no wasted spend in cloud resources.",
+        "System.AssignedTo": "lsteel109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/637"
+    },
+    {
+      "id": 638,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:48.823Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:48.823Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "We want to make frequent enhancements to the MRP application and need to modernize the application from its current legacy state.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "We want to make frequent enhancements to the MRP application and need to modernize the application from its current legacy state.",
+        "System.AssignedTo": "craig109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/638"
+    },
+    {
+      "id": 639,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:49.01Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:49.01Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As a marketeer i want our website to be performant and available around the world",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As a marketeer i want our website to be performant and available around the world",
+        "System.AssignedTo": "ckelly109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/639"
+    },
+    {
+      "id": 640,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:49.153Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:49.153Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As a user i want to be able to search the PartsUnlimited Website so that i can find the products i want to purchase",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As a user i want to be able to search the PartsUnlimited Website so that i can find the products i want to purchase",
+        "System.AssignedTo": "craig109@outlook.com",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/640"
+    },
+    {
+      "id": 641,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "Done",
+        "System.Reason": "Work finished",
+        "System.CreatedDate": "2022-10-09T00:43:49.357Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:49.357Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As ops guy, I'd like to make sure I am notified anytime public availability is impacted for key user scenarios",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As ops guy, I'd like to make sure I am notified anytime public availability is impacted for key user scenarios",
+        "System.AssignedTo": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/641"
+    },
+    {
+      "id": 642,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:49.67Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:49.67Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Payment",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Payment",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/656",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/642"
+    },
+    {
+      "id": 643,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:49.787Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:49.787Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Product Catalog",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Product Catalog",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/657",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/643"
+    },
+    {
+      "id": 644,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.03Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.03Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Customer Service",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Customer Service",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/660",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/659",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/644"
+    },
+    {
+      "id": 645,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.373Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.373Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Membership and Rewards Program",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Membership and Rewards Program",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/673",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/672",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/645"
+    },
+    {
+      "id": 646,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.493Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.493Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Notification",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Notification",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/664",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/646"
+    },
+    {
+      "id": 647,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.737Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.737Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Promotion and Rewards",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Promotion and Rewards",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/661",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/658",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/647"
+    },
+    {
+      "id": 648,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.88Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.88Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Product reviews and ratings",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Product reviews and ratings",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/670",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/671",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/648"
+    },
+    {
+      "id": 649,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:50.993Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:50.993Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Online tracking of shipments",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Online tracking of shipments",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/668",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/665",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/649"
+    },
+    {
+      "id": 650,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:51.11Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.11Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Shopping Cart Facility",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Shopping Cart Facility",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/667",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/666",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/669",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        },
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/662",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/650"
+    },
+    {
+      "id": 651,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Epic",
+        "System.State": "New",
+        "System.Reason": "New epic",
+        "System.CreatedDate": "2022-10-09T00:43:51.353Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:51.353Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "As marketer, I want to run an A|B test on alternative Web Sites using Application Insights.",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "As marketer, I want to run an A|B test on alternative Web Sites using Application Insights.",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Forward",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/663",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Child"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/651"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}

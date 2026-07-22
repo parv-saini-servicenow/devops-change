@@ -1,0 +1,123 @@
+{
+  "count": 3,
+  "value": [
+    {
+      "id": 634,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Bug",
+        "System.State": "Approved",
+        "System.Reason": "Approved by the Product Owner",
+        "System.CreatedDate": "2022-10-09T00:43:48.15Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:44:11.583Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Decline in orders noticed - Please Investigate immediately",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Decline in orders noticed - Please Investigate immediately",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 1.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "ArtifactLink",
+          "url": "vstfs:///Git/PullRequestId/02dace75-887f-41d5-8cec-75cb554322ee%2Fe39c00bd-7571-452a-a7f0-af9500d27984%2F21",
+          "attributes": {
+            "authorizedDate": "2022-10-09T00:44:11.583Z",
+            "id": "9781636",
+            "resourceCreatedDate": "2022-10-09T00:44:11.583Z",
+            "resourceModifiedDate": "2022-10-09T00:44:11.583Z",
+            "revisedDate": "9999-01-01T00:00:00Z",
+            "name": "Pull Request"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/634"
+    },
+    {
+      "id": 635,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "$ProjectName$\\Sprint 3",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "New defect reported",
+        "System.CreatedDate": "2022-10-09T00:43:48.28Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2022-10-09T00:43:48.28Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Sel_IE_Navigate Failed in 2488",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "Sel_IE_Navigate Failed in 2488",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/671",
+          "attributes": {
+            "isLocked": "false",
+            "comment": "Making a new link for the dependency",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/635"
+    },
+    {
+      "id": 3003,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "workshop",
+        "System.TeamProject": "workshop",
+        "System.IterationPath": "workshop",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "New defect reported",
+        "System.CreatedDate": "2023-06-29T20:04:56.5Z",
+        "System.CreatedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.ChangedDate": "2023-06-29T20:04:56.5Z",
+        "System.ChangedBy": "Joe Offenberg <joseph.offenberg@servicenow.com>",
+        "System.Title": "Database connection error: Connection Timeout",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/sndevopspov/_apis/wit/workItems/3003"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}
