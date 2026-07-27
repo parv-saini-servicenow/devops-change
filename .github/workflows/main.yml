@@ -1,4 +1,4 @@
-name: CI
+name: CI/CD with ServiceNow Change
 
 on:
   push:
@@ -10,17 +10,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build
-        run: echo "Build step placeholder"
+        run: echo "Building app..."
 
-  change:
+  test:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - name: Run tests
+        run: echo "Running tests..."
+
+  change:
+    needs: test
+    runs-on: ubuntu-latest
+    outputs:
+      change-request-number: ${{ steps.create-change.outputs.change-request-number }}
+    steps:
       - name: ServiceNow DevOps Change
+        id: create-change
         uses: ServiceNow/servicenow-devops-change@v6.1.0
         with:
           devops-integration-token: ${{ secrets.SN_DEVOPS_INTEGRATION_TOKEN }}
           instance-url: ${{ secrets.SN_INSTANCE_URL }}
           tool-id: ${{ secrets.SN_ORCHESTRATION_TOOL_ID }}
           context-github: ${{ toJSON(github) }}
-          job-name: 'build'
+          job-name: 'test'
+          change-request: '{"attributes":{"short_description":"Automated deployment via GitHub Actions","description":"Demo pipeline change","implementation_plan":"Automated deploy via CD pipeline","backout_plan":"Redeploy previous version","test_plan":"Verified in test job"}}'
+
+  deploy:
+    needs: change
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy
+        run: echo "Deploying app... (Change ${{ needs.change.outputs.change-request-number }})"
